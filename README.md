@@ -1,2 +1,5 @@
-# udacity_repo
-This repository is created during the couse coverage of MLOps from Udacity.
+git clone <repository url>
+git add <files>
+git commit -m <message>
+git push origin <branch name>
+git checkout -m <new_branch_name>
